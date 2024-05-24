@@ -1,4 +1,4 @@
-# Setu E-Bank Management System
+# Setu E-Bank 
 
 The Setu E-Bank Management System is a web-based application built using ASP.NET Core MVC and MySQL. It provides a user-friendly interface for managing bank accounts and transactions securely. 
 
@@ -10,4 +10,3 @@ The Setu E-Bank Management System is a web-based application built using ASP.NET
 
 ### Tech Stack - ASP.NET MVC, Entity Framework,  MySQL, HTML, CSS, JS
 
-This application is designed to streamline banking operations and provide a seamless user experience.
